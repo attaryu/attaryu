@@ -49,8 +49,8 @@ I live in Jombang Regency, East Java Province, Indonesia. I'am a Front-end Devel
 <br />
 
 # Repository pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=attaryu&repo=d-share-forum-app&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=attaryu&repo=movie-more&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=attaryu&repo=d-share-forum-app&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/attaryu/d-share-forum-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=attaryu&repo=movie-more&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/attaryu/movie-more)
 
 <br />
 <br />
