@@ -48,13 +48,6 @@ I live in Jombang Regency, East Java Province, Indonesia. I'am a Front-end Devel
 
 <br />
 
-# Repository pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=attaryu&repo=d-share-forum-app&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/attaryu/d-share-forum-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=attaryu&repo=movie-more&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/attaryu/movie-more)
-
-<br />
-<br />
-
 If you ask where is my personal website, I don't have it, maybe I will make it if I have free time. If you want to work with me, especially on the Front-end side, you can contact me via ```Email: mattarannaufal@gmail.com``` or <a href="https://www.instagram.com/just.atr_/" target="_blank">Instagram</a>
 
 <br />
