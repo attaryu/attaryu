@@ -66,9 +66,6 @@ If you ask where is my personal website, I don't have it, maybe I will make it i
 <a href="https://www.codewars.com/users/attaryu" target="_blank">
   <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
 </a>
-<a href="https://leetcode.com/mattarannaufal/" target="_blank">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-</a>
 <a href="https://www.instagram.com/just.atr_/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
