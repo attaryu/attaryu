@@ -46,11 +46,11 @@ I live in Jombang Regency, East Java Province, Indonesia. I'am a Front-end Devel
 
 <br />
 
-If you ask where is my personal website, I don't have it, maybe I will make it if I have free time. If you want to work with me, especially on the Front-end side, you can contact me via ```Email: mattarannaufal@gmail.com``` or <a href="https://www.instagram.com/just.atr_/" target="_blank">Instagram</a>
+If you ask where is my personal website, I don't have it, maybe I will make it if I have free time.
 
 <br />
 
-### You can find me here
+### You can contact me here:
 
 <a href="https://www.linkedin.com/in/attar-annaufal-797730230/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
