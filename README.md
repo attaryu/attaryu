@@ -2,7 +2,7 @@
   Hello there, I'm Attar🧑‍💻
 </h1>
 <p align="center">
-  I live in Indonesia. A Front-end Developer and have some UI design skills.
+  I live in Indonesia. A FullStack Developer and have some UI design skills.
 </p>
 
 <br />
@@ -15,6 +15,7 @@
 <br />
 
 <p align="center">✨ I use this</p>
+<h2 align="center">Front-end</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -27,6 +28,13 @@
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+<h2 align="center">Back-end</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
 <br />
