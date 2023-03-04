@@ -44,7 +44,7 @@
 </p>
 
 <br />
-
+<p align="center">You can find me here:</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/attar-annaufal-797730230/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
