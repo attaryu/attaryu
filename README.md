@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=attaryu&show_icons=true&theme=tokyonight" width="385" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=attaryu&layout=compact&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=attaryu&layout=compact&theme=tokyonight" width="345" />
 </p>
 
 <br />
@@ -44,8 +44,6 @@
 </p>
 
 <br />
-
-<p align="center">📫 How to contact me: <a href="mailto:mattarannaufal@gmail.com">mattarannaufal@gmail.com</a>.<br /> You can find me here:</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/attar-annaufal-797730230/" target="_blank">
