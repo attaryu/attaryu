@@ -2,7 +2,7 @@
   Hello there, I'm Attar🧑‍💻
 </h1>
 <p align="center">
-  I live in Indonesia. A FullStack Developer and have some UI design skills.
+  I live in Indonesia. A Full-Stack Developer, But specialist at Front-End and have some UI design skills.
 </p>
 
 <br />
