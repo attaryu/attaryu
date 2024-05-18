@@ -2,7 +2,7 @@
   Hello there, I'm Attar🧑‍💻
 </h1>
 <p align="center">
-  I live in Indonesia. A Full-Stack Developer, But specialist at Front-End and have some UI design skills.
+  Front-end? Back-end? Database admin? UI design? Idk, whatever do you want. I will do as much as possible
 </p>
 
 <br />
