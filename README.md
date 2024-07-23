@@ -2,7 +2,7 @@
   Hello there, I'm Attar🧑‍💻
 </h1>
 <p align="center">
-  Front-end? Back-end? Database admin? UI design? Idk, whatever do you want. I will do as much as possible
+  Front-end? Back-end? Database admin? UI design? Whatever what do you want. I will do as much as possible :D
 </p>
 
 <br />
