@@ -24,11 +24,5 @@
   </a>
   <a href="http://instagram.com/am_iattar" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</p>
-</a>
-
-<br />
-<br />
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=attaryu&style=flat-square&color=blue" />
+  </a>
 </p>
