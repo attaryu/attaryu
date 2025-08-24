@@ -1,9 +1,6 @@
 <h1 align="center">
-  Hello there, I'm Attar🧑‍💻
+  Hello, I'm Attar and I'm good👍
 </h1>
-<p align="center">
-  I'm just an ordinary TypeScript-oriented developer, I guess.
-</p>
 
 <br />
 
