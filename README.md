@@ -4,9 +4,9 @@
 
 <br />
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=attaryu&layout=compact&theme=tokyonight" width="400" />
-</p>
+</p> -->
 
 <br />
 
