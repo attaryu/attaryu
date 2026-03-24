@@ -1,6 +1,8 @@
-<h1 align="center">
+<h1>
   Hello, I'm Attar and I'm good👍
 </h1>
+
+A low-key organized freak, but sometimes I just overthink my own systems into a bottleneck.
 
 <br />
 
@@ -15,8 +17,8 @@
 <br />
 
 <br />
-<p align="center">You can find me here:</p>
-<p align="center">
+<p>You can find me here:</p>
+<p>
   <a href="https://www.mycompiler.io/@mattar" target="_blank">
     <img src="https://img.shields.io/badge/My_Compiler-2A62FE?style=for-the-badge" />
   </a>
