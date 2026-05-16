@@ -2,7 +2,7 @@
   Hello, I'm Attar and I'm good👍
 </h1>
 
-A low-key organized freak, but sometimes I just overthink my own systems into a bottleneck.
+A low-key organized freak, but sometimes I just overthink my own systems into a bottleneck. No tech stack badges here — just tell me what to build, and I’ll learn it on the fly while baking in best practices from day one.
 
 <br />
 
