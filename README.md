@@ -6,16 +6,6 @@ A low-key organized freak, but sometimes I just overthink my own systems into a 
 
 <br />
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=attaryu&layout=compact&theme=tokyonight" width="275" />
-  
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317uqbx52ahgropdz3giy5soitiq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=false&bar_color=53b14f&mode=dark">
-  </a>
-</p> -->
-
-<br />
-
 <br />
 <p>You can find me here:</p>
 <p>
